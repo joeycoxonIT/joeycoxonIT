@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Joey, an <a href="www.linkedin.com/in/joey-coxon-8b5b29266">IT Professional</a>☺</h1>
 
-<!--
-**joeycoxonIT/joeycoxonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joeycoxonIT/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joeycoxonIT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joeycoxonIT/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/joeycoxonIT/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joeycoxonIT/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Joey | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Joey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/Joey
+[instagram]: https://www.instagram.com/Joey
+[linkedin]: https://linkedin.com/in/Joey
