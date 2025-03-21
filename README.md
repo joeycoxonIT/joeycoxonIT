@@ -16,4 +16,7 @@
 [<img align="left" alt="Joey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[twitter]: https://x.com/coxoncable
 [linkedin]: https://linkedin.com/in/www.linkedin.com/in/joey-coxon-8b5b29266
+[instagram]: https://www.instagram.com/coxoncable/
